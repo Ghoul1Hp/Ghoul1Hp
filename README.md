@@ -91,8 +91,8 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ---
 
 ## 🤝 Let's Connect
-
-- 💬 Discord : [Ghoul1Hp](https://github.com/Ghoul1Hp)
+- ✨ Website : [https://ghoul1hp.com](https://www.ghoul1hp.com)
+- 💬 Discord : [Ghoul1Hp](https://github.com/Ghoul1Hp](https://discord.com/channels/@me/1458583253635301663)
 - 🌍 GitHub : [Ghoul1Hp](https://github.com/Ghoul1Hp)
 
 ---
