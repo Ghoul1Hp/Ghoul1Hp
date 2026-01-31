@@ -80,18 +80,13 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ghoul1Hp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghoul1Hp&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoul1Hp&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghoul1Hp&theme=tokyonight" />
 </p>
+
 
 ---
 
