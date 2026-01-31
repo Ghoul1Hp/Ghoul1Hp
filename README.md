@@ -27,7 +27,7 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 
 - 💻 Full-Stack Developer (Web & Desktop)
 - ⚡ Tech Explorer & Problem Solver
-- 🧑‍💻 Freelancer & Open Source Enthusiast
+- ✨ Freelancer & Open Source Enthusiast
 - 🎯 Always learning, always improving
 
 ---
@@ -73,23 +73,6 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 - 🚀 Performance-Optimized Projects
 
 📌 *Most of my work is available here on GitHub — feel free to explore my repositories.*
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghoul1Hp&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghoul1Hp&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-
 
 ---
 
