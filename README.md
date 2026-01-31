@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1324777049453494365)](https://discord.com/users/1324777049453494365)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1364107742767222859)](https://discord.com/users/1364107742767222859)
 <p>
    <a href="https://discord.com/channels/@me/1364107742767222859"> <img src="https://discord.c99.nl/widget/theme-4/1364107742767222859" alt="contact mee"></a>
 <p>
