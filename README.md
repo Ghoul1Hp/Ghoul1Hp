@@ -81,14 +81,14 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ghoul200Hp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=Ghoul1Hp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoul200Hp&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoul1Hp&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -97,8 +97,8 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 
 ## 🤝 Let's Connect
 
-- 💬 Discord: [Ghoul1Hp](https://github.com/Ghoul1Hp)
-- 🌍 GitHub: [github.com/Ghoul200Hp](https://github.com/Ghoul1Hp)
+- 💬 Discord : [Ghoul1Hp](https://github.com/Ghoul1Hp)
+- 🌍 GitHub : [Ghoul1Hp](https://github.com/Ghoul1Hp)
 
 ---
 
