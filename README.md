@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Oussama E. Ghoul 3amk</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Oussama E. Ghoul1Hp</h1>
 <h3 align="center">Self-Taught Developer. Tech Enthusiast</h3>
 
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1324777049453494365)](https://discord.com/users/1324777049453494365)
 <p>
-   <a href="https://discord.com/channels/@me/1324777049453494365"> <img src="https://discord.c99.nl/widget/theme-4/1324777049453494365.png" alt="contact mee"></a>
+   <a href="https://discord.com/channels/@me/1364107742767222859"> <img src="https://discord.c99.nl/widget/theme-4/1364107742767222859" alt="contact mee"></a>
 <p>
 
 </div>
