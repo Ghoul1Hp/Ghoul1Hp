@@ -40,7 +40,7 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ![typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=61DAFB)
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
