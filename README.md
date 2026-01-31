@@ -68,7 +68,6 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ## 📂 Portfolio Highlights
 
 🧩 **What I Build:**
-- 🌐 Full-Stack Web Applications
 - 🤖 Discord Bots & Automation
 - 🖥️ Desktop & System Tools (C++ / C#)
 - 🔐 Secure APIs & Back-End Systems
@@ -81,19 +80,25 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghoul200Hp&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ghoul200Hp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoul200Hp&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoul200Hp&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💬 Discord: **Ghoul1Hp**
-- 🌍 GitHub: [github.com/Ghoul200Hp](https://github.com/Ghoul200Hp)
+- 💬 Discord: [Ghoul1Hp](https://github.com/Ghoul1Hp)
+- 🌍 GitHub: [github.com/Ghoul200Hp](https://github.com/Ghoul1Hp)
 
 ---
 
