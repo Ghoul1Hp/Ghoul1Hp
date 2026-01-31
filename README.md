@@ -67,7 +67,7 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 
 ## 📂 Portfolio Highlights
 
-🧩 **What I Build:**
+🧩 **What I Build :**
 - 🤖 Discord Bots & Automation
 - 🖥️ Desktop & System Tools (C++ / C#)
 - 🔐 Secure APIs & Back-End Systems
