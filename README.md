@@ -17,7 +17,6 @@
     <img src="https://komarev.com/ghpvc/?username=Ghoul200Hp&style=flat-square&color=blue" alt="profile views"/>
   </a>
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -41,7 +40,6 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ---
 
 ### 🎨 Front-End Development
@@ -50,7 +48,6 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ---
 
 ### ⚙️ Back-End Development
@@ -61,7 +58,6 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-205375?style=for-the-badge&logo=mysql&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ---
 
 ## 📂 Portfolio Highlights
@@ -78,9 +74,6 @@ I specialize in **Full-Stack Web Development**, and I enjoy exploring **low-leve
 
 ## 🤝 Let's Connect
 - ✨ Website : [https://ghoul1hp.com](https://www.ghoul1hp.com)
-- 💬 Discord : [Ghoul1Hp](https://discord.com/channels/@me/1458583253635301663)
-- 🌍 GitHub : [Ghoul1Hp](https://github.com/Ghoul1Hp)
-
 ---
 
 ⭐ *If you like my work, consider giving a star to support me!*
